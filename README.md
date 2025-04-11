@@ -1,5 +1,5 @@
 # Codes
-## A *GitHub* repository, filled with all kinds of codes
+A *GitHub* repository, filled with all kinds of codes. Mainly for practice.
 
 # Repository Structure
 ```
@@ -15,3 +15,7 @@
 ├── LICENSE
 └── README.md
 ```
+
+## List of codes
+1. *CodeWars*
+2. Others (such as test files)
