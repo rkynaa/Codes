@@ -49,5 +49,5 @@ A *GitHub* repository, filled with all kinds of codes. Mainly for practice.
 
 ## List of codes
 1. *CodeWars*
-   1. Python (Total: 10 codes)
+   1. Python (Total: 26 codes)
 2. Others (such as test files)
